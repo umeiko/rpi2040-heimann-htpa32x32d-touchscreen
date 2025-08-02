@@ -1,3 +1,9 @@
+/*** PROGRAMM INFO***************************************************************************************
+  source code for HTPAd RP2040 driver
+  name:           RP2040_HTPAd_32x32
+  version/date:   2.2-rp2040branch / 01 Jan 2025
+  programmer:     Umeko (umeko@stu.xmu.edu.cn)
+*********************************************************************************************************/
 #ifndef HEIMANN_DRIVER_HPP
 #define HEIMANN_DRIVER_HPP
 /*** PROGRAMM INFO***************************************************************************************
