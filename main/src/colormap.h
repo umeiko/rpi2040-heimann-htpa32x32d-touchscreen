@@ -1,4 +1,10 @@
 // 这里保存了热力图的颜色表，格式为rgb565
+/*** PROGRAMM INFO***************************************************************************************
+  source code for color mapping
+  name:           colormap.h
+  version/date:   0.0.1 / 01 Jan 2025
+  programmer:     Umeko (umeko@stu.xmu.edu.cn)
+*********************************************************************************************************/
 #ifndef COLORMAP_H
 #define COLORMAP_H
 
